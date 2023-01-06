@@ -6,5 +6,5 @@ public class HomePage {
 
     // this is only practice
 
-
+// this is also for the home page
 }
