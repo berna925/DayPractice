@@ -9,5 +9,7 @@ public class Sales {
 
     // this is more sales updated
     // on sale going until end of this month
+    //holiday sales
+    // deals
 }
 
